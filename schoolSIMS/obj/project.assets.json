@@ -13059,11 +13059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pranav\\source\\repos\\schoolSIMS\\schoolSIMS\\schoolSIMS.csproj",
+      "projectUniqueName": "C:\\Users\\Pranav\\MSA2019-Phase-1-Databases\\schoolSIMS\\schoolSIMS.csproj",
       "projectName": "schoolSIMS",
-      "projectPath": "C:\\Users\\Pranav\\source\\repos\\schoolSIMS\\schoolSIMS\\schoolSIMS.csproj",
+      "projectPath": "C:\\Users\\Pranav\\MSA2019-Phase-1-Databases\\schoolSIMS\\schoolSIMS.csproj",
       "packagesPath": "C:\\Users\\Pranav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pranav\\source\\repos\\schoolSIMS\\schoolSIMS\\obj\\",
+      "outputPath": "C:\\Users\\Pranav\\MSA2019-Phase-1-Databases\\schoolSIMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
